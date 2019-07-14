@@ -7,11 +7,11 @@ Here is the list of Udacity's attended courses and project codes.
 ## Courses List
 
 ### Android Basics Nanodegree Program
-* [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
-* [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
-* [Android Basics: Multi-Screen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
-* [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
-* [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
+* [Android Basics: User Interface](https://github.com/jerrychong25/Udacity/tree/master/android-basics-user-interface)
+* [Android Basics: User Input](https://github.com/jerrychong25/Udacity/tree/master/android-basics-user-input)
+* [Android Basics: Multi-Screen Apps](https://github.com/jerrychong25/Udacity/tree/master/android-basics-multiscreen-apps)
+* [Android Basics: Networking](https://github.com/jerrychong25/Udacity/tree/master/android-basics-networking)
+* [Android Basics: Data Storage](https://github.com/jerrychong25/Udacity/tree/master/android-basics-data-storage)
 
 ## Versioning
 
