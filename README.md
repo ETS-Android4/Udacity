@@ -2,7 +2,7 @@
 
 ## Summary
 
-Here is the list of Udacity's attended courses and project codes.
+Here is the list of Udacity's attended courses.
 
 ## Courses List
 
@@ -21,6 +21,9 @@ Here is the list of Udacity's attended courses and project codes.
 * [Authentication & Authorization: OAuth](https://github.com/jerrychong25/Udacity/tree/master/authentication-%26-authorization-oauth)
 * [Configuring Linux Web Servers](https://github.com/jerrychong25/Udacity/tree/master/configuring-linux-web-servers)
 * [Deploying Applications with Heroku](https://github.com/jerrychong25/Udacity/tree/master/deploying-applications-with-heroku)
+
+### Other Courses
+* [Firebase in a Weekend (Android)](https://github.com/jerrychong25/Udacity/tree/master/firebase-in-a-weekend-android-by-google)
 
 ## Versioning
 
