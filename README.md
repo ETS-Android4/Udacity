@@ -34,6 +34,8 @@ Here is the list of Udacity's attended courses.
 
 [Semantic Versioning (SemVer) 2.0.0](http://semver.org/)
 
-## Authors
+## Author
 
-**Chong Hon Fong** - [jerrychong25](https://github.com/jerrychong25)
+[Jerry Chong](https://www.linkedin.com/in/chonghf/) - <jerrychong25@gmail.com>
+
+[![Profile of Jerry Chong on StackOverflow](https://stackexchange.com/users/flair/7827419.png)](https://stackexchange.com/users/7827419/jerry-chong)
