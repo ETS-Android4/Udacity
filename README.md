@@ -36,6 +36,6 @@ Here is the list of Udacity's attended courses.
 
 ## Author
 
-[Jerry Chong](https://www.linkedin.com/in/chonghf/) - <jerrychong25@gmail.com>
+[Jerry Chong](https://www.linkedin.com/in/chonghf/) - <jerrychong25@gmail.com> 
 
-[![Profile of Jerry Chong on StackOverflow](https://stackexchange.com/users/flair/7827419.png)](https://stackexchange.com/users/7827419/jerry-chong)
+[![Profile of Jerry Chong on StackOverflow](https://stackoverflow.com/users/flair/5918539.png)](https://stackoverflow.com/users/5918539/jerry-chong)
