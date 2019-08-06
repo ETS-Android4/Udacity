@@ -22,10 +22,17 @@ Here is the list of Udacity's attended courses.
 * [Configuring Linux Web Servers](https://github.com/jerrychong25/Udacity/tree/master/configuring-linux-web-servers)
 * [Deploying Applications with Heroku](https://github.com/jerrychong25/Udacity/tree/master/deploying-applications-with-heroku)
 
+### iOS Developer Nanodegree Program (TBC)
+* [Learn Swift Programming Syntax](https://www.udacity.com/course/learn-swift-programming-syntax--ud902)
+* [Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) (TBC)
+* [UIKit Fundamentals](https://www.udacity.com/course/uikit-fundamentals--ud788) (TBC)
+* [Grand Central Dispatch (GCD)](https://www.udacity.com/course/grand-central-dispatch-gcd--ud576) (TBC)
+* [iOS Persistence and Core Data](https://www.udacity.com/course/ios-persistence-and-core-data--ud325) (TBC)
+
 ### Mobile Web Specialist Nanodegree Program (TBC)
-* [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
-* [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
-* [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
+* [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899) (TBC)
+* [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860) (TBC)
+* [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) (TBC)
 
 ### Other Courses
 * [Firebase in a Weekend (Android)](https://github.com/jerrychong25/Udacity/tree/master/firebase-in-a-weekend-android-by-google)
