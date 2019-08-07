@@ -26,16 +26,15 @@
                                     <action selector="recordAudio:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Htu-0Y-eGl"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Tap To Record" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="H3y-CW-f5r">
-                                <rect key="frame" x="152" y="512" width="110" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Stop Recording" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OKf-w1-QKk">
-                                <rect key="frame" x="148" y="580" width="118" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ui5-Jl-jDq">
+                                <rect key="frame" x="152" y="576" width="106" height="30"/>
+                                <state key="normal" title="Stop Recording"/>
+                                <connections>
+                                    <action selector="stopRecording:" destination="BYZ-38-t0r" eventType="touchUpInside" id="AWc-8f-eBL"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Tap To Record" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="H3y-CW-f5r">
+                                <rect key="frame" x="146" y="513" width="123" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -43,8 +42,12 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
+                            <constraint firstItem="H3y-CW-f5r" firstAttribute="top" secondItem="xlC-cw-TMf" secondAttribute="bottom" constant="40" id="FiH-AC-5MB"/>
                             <constraint firstItem="xlC-cw-TMf" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="L7f-zH-VUW"/>
                             <constraint firstItem="xlC-cw-TMf" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="Y7l-uV-fb3"/>
+                            <constraint firstItem="Ui5-Jl-jDq" firstAttribute="top" secondItem="H3y-CW-f5r" secondAttribute="bottom" constant="117" id="l9C-UU-Jj8"/>
+                            <constraint firstItem="Ui5-Jl-jDq" firstAttribute="centerX" secondItem="H3y-CW-f5r" secondAttribute="centerX" id="s1k-Xf-mls"/>
+                            <constraint firstItem="H3y-CW-f5r" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="uEL-dW-q6t"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
