@@ -31,8 +31,8 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ui5-Jl-jDq">
-                                <rect key="frame" x="175" y="635" width="64" height="64"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ui5-Jl-jDq">
+                                <rect key="frame" x="175" y="621.5" width="64" height="64"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="64" id="94q-rm-QF1"/>
                                     <constraint firstAttribute="height" constant="64" id="oXz-aJ-Xf4"/>
@@ -48,7 +48,7 @@
                             <constraint firstItem="H3y-CW-f5r" firstAttribute="top" secondItem="xlC-cw-TMf" secondAttribute="bottom" constant="40" id="FiH-AC-5MB"/>
                             <constraint firstItem="xlC-cw-TMf" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="L7f-zH-VUW"/>
                             <constraint firstItem="xlC-cw-TMf" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="Y7l-uV-fb3"/>
-                            <constraint firstItem="Ui5-Jl-jDq" firstAttribute="top" secondItem="H3y-CW-f5r" secondAttribute="bottom" constant="117" id="l9C-UU-Jj8"/>
+                            <constraint firstItem="Ui5-Jl-jDq" firstAttribute="top" secondItem="H3y-CW-f5r" secondAttribute="bottom" constant="30" id="l9C-UU-Jj8"/>
                             <constraint firstItem="Ui5-Jl-jDq" firstAttribute="centerX" secondItem="H3y-CW-f5r" secondAttribute="centerX" id="s1k-Xf-mls"/>
                             <constraint firstItem="H3y-CW-f5r" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="uEL-dW-q6t"/>
                         </constraints>
