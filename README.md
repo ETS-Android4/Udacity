@@ -1,5 +1,10 @@
 # Udacity
 
+
+[![GitHub release](https://img.shields.io/github/release/jerrychong25/Udacity.svg)](https://gitHub.com/jerrychong25/Udacity/releases/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jerrychong25/Udacity/graphs/commit-activity)
+[![HitCount](http://hits.dwyl.com/jerrychong25/Udacity.svg)](http://hits.dwyl.com/jerrychong25/Udacity)
+
 ## Summary
 
 Here is the list of Udacity's attended courses.
