@@ -1,3 +1,5 @@
+Writing Modular Code
+
 A) Tip: DRY (Don't Repeat Yourself)
 -Don't repeat yourself! Modularization allows you to reuse parts of your code. Generalize and consolidate repeated code in functions or loops.
 
