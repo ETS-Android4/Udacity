@@ -1,3 +1,5 @@
+Writing Clean Code
+
 A) Tip: Use meaningful names
 -Be descriptive and imply type - E.g. for booleans, you can prefix with is_ or has_ to make it clear it is a condition. You can also use part of speech to imply types, like verbs for functions and nouns for variables.
 -Be consistent but clearly differentiate - E.g. age_list and age is easier to differentiate than ages and age.
