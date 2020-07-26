@@ -41,6 +41,7 @@ Here is the list of Udacity's attended courses.
 
 ### Other Courses
 * [Firebase in a Weekend (Android)](https://github.com/jerrychong25/Udacity/tree/master/firebase-in-a-weekend-android-by-google)
+* [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
 
 ## Versioning
 
